@@ -49,5 +49,3 @@ npm run rebuild
 ### Testing
 
 No specific tests are set up in this boilerplate. Feel free to add your own testing setup as needed.
-# electron-react-boilerplate
-# electron-react-boilerplate
