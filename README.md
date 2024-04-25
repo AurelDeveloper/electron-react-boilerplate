@@ -2,7 +2,7 @@
 
 This project is a basic Electron-React boilerplate to help you kickstart your Electron application with React.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
